@@ -1,0 +1,7 @@
+extends layout
+
+block content
+  h1= title
+  p.content Welcome to #{title}
+  p #{users.name}
+  a(href="/users", title="用户") users_用户
