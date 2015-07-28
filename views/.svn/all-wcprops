@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/duanlunming/ndExpress.git/!svn/ver/3/trunk/views
+END
+layout.jade
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/duanlunming/ndExpress.git/!svn/ver/3/trunk/views/layout.jade
+END
+index.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/duanlunming/ndExpress.git/!svn/ver/3/trunk/views/index.ejs
+END
+index.jade
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/duanlunming/ndExpress.git/!svn/ver/3/trunk/views/index.jade
+END
+error.jade
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/duanlunming/ndExpress.git/!svn/ver/3/trunk/views/error.jade
+END
+news.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/duanlunming/ndExpress.git/!svn/ver/3/trunk/views/news.ejs
+END
+news.jade
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/duanlunming/ndExpress.git/!svn/ver/3/trunk/views/news.jade
+END
